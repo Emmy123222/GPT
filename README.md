@@ -385,10 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Team** - Frontend framework
 - **Tailwind CSS** - Utility-first CSS framework
 
-## 📞 Support
-
-For support, email support@privateicp.com or join our Discord community.
 
 ---
 
-**Built with ❤️ for privacy and decentralization**
+**Built with  for privacy and decentralization**
